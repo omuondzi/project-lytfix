@@ -363,6 +363,7 @@ opacity: 0;
     flex-direction: column;
     align-items: center;
     height: 100vh;
+    padding-top: 150px;
 
 }
 
@@ -438,6 +439,7 @@ opacity: 0;
 @media screen and (max-width:960px) {
     .services{
         height: 1600px;
+        padding-top: 350px;
     }
     .services h1{
         font-size:2rem ;
